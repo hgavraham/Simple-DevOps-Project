@@ -14,6 +14,7 @@ Maven is a code build tool which used to convert your code to an artifact. this 
      cd /opt/maven
      # downloading maven version 3.6.0
      wget http://mirrors.estointernet.in/apache/maven/maven-3/3.6.1/binaries/apache-maven-3.6.1-bin.tar.gz
+     # wget https://apache.mivzakim.net/maven/maven-3/3.8.1/binaries/apache-maven-3.8.1-bin.tar.gz (ag)
      tar -xvzf apache-maven-3.6.1-bin.tar.gz
      ```
 	

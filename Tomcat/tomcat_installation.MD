@@ -10,7 +10,8 @@
    cd /opt
    # wget http://mirrors.fibergrid.in/apache/tomcat/tomcat-8/v8.5.35/bin/apache-tomcat-8.5.35.tar.gz
    wget https://apache.mivzakim.net/tomcat/tomcat-8/v8.5.69/bin/apache-tomcat-8.5.69.tar.gz #(ag)
-   tar -xvzf /opt/apache-tomcat-8.5.35.tar.gz
+   # tar -xvzf /opt/apache-tomcat-8.5.35.tar.gz
+   tar -xvzf /opt/apache-tomcat-8.5.69.tar.gz #(ag)
    ```
 1. give executing permissions to startup.sh and shutdown.sh which are under bin. 
    ```sh
